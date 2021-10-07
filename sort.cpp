@@ -58,7 +58,6 @@ void merge(int arr[], int l, int mid, int r)
 
 }
 
-
 void mergeSort(int arr[], int l, int r) // here both l and r are true values, as in l = 0, r = len-1. 
 {
     if (l < r)
@@ -79,3 +78,6 @@ void mergeSort(int arr[], int l, int r) // here both l and r are true values, as
         // the array from*.
     }
 }
+
+
+ 
